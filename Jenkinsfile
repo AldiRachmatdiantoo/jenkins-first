@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage("hello") {
             steps {
-                echo "my jenkins pipeline gueh"
+                echo "my favorite jenkins pipeline gueh"
             }
         }
     }
